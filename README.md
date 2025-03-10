@@ -9,12 +9,21 @@ You can anticipate your score based on your hour on learning using Exploratory D
 - Model Evaluation: R-squared Score, Mean Absolute Error (MAE), Mean Squared Error (MSE)
 
 ## 🖥️ **Used**
-- **Python**:NumPy, Pandas, Matplotlib, Seaborn)
-- **Scikit-Learn**:ML Regression, Model Evaluation)
+- **Python**        :NumPy, Pandas, Matplotlib, Seaborn)
+- **Scikit-Learn**  :ML Regression, Model Evaluation)
 - **Jupyter Notebook/Google Colab**
 
 ## ⛓️ **Installation**
-- Clone the repository
+👬 Clone the repository
+```bash
 git clone https://github.com/enshefalogram/ml-pred-test.git
+```
+🔃 Install dependencies
+```bash
+pip install -r requirements.txt
+```
+📊 Analyze data by running the Jupyter Notebook analysis and modeling.
 
-- Install dependencies: pip install -r requirements.txt
+  
+# Shefa Mursalinda as contributor
+📰License under **MIT License**
